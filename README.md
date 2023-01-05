@@ -1,2 +1,2 @@
 # firstREACT
-første REACT opgave =)
+første REACT opgaver =)
